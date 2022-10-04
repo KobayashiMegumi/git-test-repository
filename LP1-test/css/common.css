@@ -294,17 +294,17 @@ display: inline-block;
 }
 
 .icon-menu li.line a {
-  background-image: url(/img/line_icon.png);
+  background-image: url(../img/line_icon.png);
   background-size: cover;
 }
 
 .icon-menu li.twitter a {
-  background-image: url(/img/twitter_icon.png);
+  background-image: url(../img/twitter_icon.png);
   background-size: cover;
 }
 
 .icon-menu li.instagram a {
-  background-image: url(/img/instagram_icon.png);
+  background-image: url(../img/instagram_icon.png);
   background-size: cover;
 }
 
